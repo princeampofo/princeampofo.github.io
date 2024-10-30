@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting a full-time position as a Software Developer/Researcher at NYUAD's Center for Interacting Urban Networks.
+I am starting a full-time position as a Research Assistant at NYUAD's Center for Interacting Urban Networks.
