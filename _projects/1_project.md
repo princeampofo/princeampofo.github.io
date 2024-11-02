@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: CITIES Dashboard
+description: The CITIES dashboard transforms complex datasets into clear, intuitive visualizations, empowering communities to make informed decisions that advance sustainability and well-being. By simplifying data insights, it serves as a powerful tool for driving meaningful, data-driven action.
 img: assets/img/12.jpg
+redirect: https://citiesdashboard.com
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

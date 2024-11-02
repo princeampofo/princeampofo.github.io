@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: CityMap
+description: Citymap is an advanced visualization tool leveraging Mapbox to map and showcase urban amenities across Abu Dhabi, providing users with an intuitive, location-based experience to explore the city's diverse resources and infrastructure.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+redirect: https://citymap.citygraph.abudhabi.nyu.edu/
+importance: 2
 category: work
 ---
 

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Kosmograph
+description: Kosmograph is a powerful and scalable visualization tool that transforms complex graph edge records into clear, interactive visual representations, making it easy to explore and understand intricate network structures and relationships at scale
+redirect: https://kosmograph.citygraph.abudhabi.nyu.edu/
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

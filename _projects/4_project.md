@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: CityGraph
+description: CityGraph is a robust Wikibase-powered knowledge graph tailored for the UAE, enabling efficient and lightning-fast querying and retrieval of information. This tool provides a structured, accessible way to explore and harness the rich landscape of UAE-specific knowledge.
+img: assets/img/7.jpg
+redirect: https://citygraph.abudhabi.nyu.edu/
+importance: 2
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
