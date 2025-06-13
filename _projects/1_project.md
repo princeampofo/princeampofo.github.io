@@ -2,7 +2,7 @@
 layout: page
 title: CITIES Dashboard
 description: The CITIES dashboard transforms complex datasets into clear, intuitive visualizations, empowering communities to make informed decisions that advance sustainability and well-being. By simplifying data insights, it serves as a powerful tool for driving meaningful, data-driven action.
-img: assets/img/12.jpg
+img: assets/img/citiesdashboard.png
 redirect: https://citiesdashboard.com
 importance: 1
 category: work
@@ -19,7 +19,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/citiesdashboard.png
     ---
 
 <div class="row">

@@ -2,7 +2,7 @@
 layout: page
 title: CityGraph
 description: CityGraph is a robust Wikibase-powered knowledge graph tailored for the UAE, enabling efficient and lightning-fast querying and retrieval of information. This tool provides a structured, accessible way to explore and harness the rich landscape of UAE-specific knowledge.
-img: assets/img/7.jpg
+img: assets/img/citygraph.png
 redirect: https://citygraph.abudhabi.nyu.edu/
 importance: 2
 category: work
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/citygraph.png
     ---
 
 <div class="row">

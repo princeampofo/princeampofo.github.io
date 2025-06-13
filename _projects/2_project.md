@@ -3,7 +3,7 @@ layout: page
 title: Kosmograph
 description: Kosmograph is a powerful and scalable visualization tool that transforms complex graph edge records into clear, interactive visual representations, making it easy to explore and understand intricate network structures and relationships at scale
 redirect: https://kosmograph.citygraph.abudhabi.nyu.edu/
-img: assets/img/3.jpg
+img: assets/img/kosmograph.png
 importance: 1
 category: work
 giscus_comments: false
@@ -19,7 +19,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/kosmograph.png
     ---
 
 <div class="row">

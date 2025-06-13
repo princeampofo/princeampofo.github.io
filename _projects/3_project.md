@@ -2,7 +2,7 @@
 layout: page
 title: CityMap
 description: Citymap is an advanced visualization tool leveraging Mapbox to map and showcase urban amenities across Abu Dhabi, providing users with an intuitive, location-based experience to explore the city's diverse resources and infrastructure.
-img: assets/img/7.jpg
+img: assets/img/citymap.png
 redirect: https://citymap.citygraph.abudhabi.nyu.edu/
 importance: 2
 category: work
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/citymap.png
     ---
 
 <div class="row">

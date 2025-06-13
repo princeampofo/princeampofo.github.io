@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Assistant in the [Computer Science Department](https://nyuad.nyu.edu/en/academics/divisions/science/academic-programs/computer-science.html) at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/), where I work at the intersection of natural language processing and information visualization. My research involves developing applications that analyze large datasets, derive insights through advanced AI techniques, and present findings in compelling visual formats. I work specifically with [Prof. Djellel](https://dedcode.github.io/) and collaborate closely with other research teams at [NYU](https://www.nyu.edu/), contributing to cutting-edge research in AI and information visualization.
+I am a graduate student at [Georgia State University](https://www.gsu.edu/), currently pursuing an M.S. in Computer Science. Previously, I worked as a Research Engineer at the Collaborative Intelligence Lab at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/). My work involved building and deploying retrieval-augmented generation (RAG) agents for question answering over text and tabular data, as well as developing interactive dashboards to support stakeholder decision-making. I also contributed to projects that combined large-scale data analysis, AI systems, and intuitive visual interfaces.
 
 In 2023, I completed my Bachelor’s degree in Computer Science and Mathematics at [NYU](https://www.nyu.edu/). My experience also includes a software engineering internship at [LinkedIn](https://linkedin.com/), where I collaborated with experienced engineers to build a reporting system that enhanced the efficiency and productivity of on-call engineers.
 
-Feel free to reach me via email: [pla252@nyu.edu](mailto:pla252@nyu.edu)
+Feel free to reach me via email: [pampofo1@student.gsu.edu](mailto:pampofo1@student.gsu.edu)

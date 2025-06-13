@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Prince
 middle_name: Larbi
 last_name: Ampofo
-email: pla252@nyu.edu
+email: pampofo1@student.gsu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Contact: pla252@nyu.edu
+  Contact: pampofo1@student.gsu.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
