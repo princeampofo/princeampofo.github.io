@@ -92,7 +92,6 @@ export function Terminal({ context }: { context: PortfolioContext }) {
 ██╔═══╝ ██╔══██╗██║██║╚██╗██║██║     ██╔══╝      ██║   ██║╚════██║
 ██║     ██║  ██║██║██║ ╚████║╚██████╗███████╗ ██ ╚██████╔╝███████║
 ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝     ╚═════╝ ╚══════╝`}</pre>
-            <div className="mobile-banner">PRINCE<span>.OS</span></div>
             <p className="identity-name">PRINCE AMPOFO</p>
             <div className="identity-meta"><p>{context.profile.title}</p><p className="headline">{context.profile.headline}</p></div>
           </div>
