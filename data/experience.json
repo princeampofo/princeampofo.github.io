@@ -34,7 +34,7 @@
   },
   {
     "organization": "New York University Abu Dhabi",
-    "role": "Research Engineer",
+    "role": "Software Engineer(R&D)",
     "type": "full-time",
     "location": "Abu Dhabi, UAE",
     "startDate": "2023-11",
@@ -45,11 +45,11 @@
   },
   {
     "organization": "Center for Interacting Urban Networks, NYU Abu Dhabi",
-    "role": "Software Engineer Intern",
+    "role": "Software Engineer",
     "type": "internship",
     "location": "Abu Dhabi, UAE",
     "startDate": "2022-08",
-    "endDate": "2022-12",
+    "endDate": "2023-05",
     "description": "Co-developed an interactive dashboard providing air quality insights to students across Abu Dhabi schools and improved deployment and infrastructure efficiency.",
     "technologies": ["Python", "ReactJS", "JavaScript", "CircleCI", "AWS", "Docker", "Blazegraph"],
     "highlights": []
